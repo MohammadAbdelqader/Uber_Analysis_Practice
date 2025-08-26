@@ -46,11 +46,14 @@ Here are some highlights from the analysis (see diagrams in the `images/` folder
 ## 📸 Visualizations
 Some sample charts from the analysis:
 
-| Monthly Pickups | Hourly Trends |
+| Monthly Pickups | Daily Trends |
 |-----------------|---------------|
-| ![Monthly Pickups](UI1.png) | ![Daily Rush](UI2.png) | ![HeatMap](UI4heatmap.png) | ![Base_number Active cars](UI3.png)
+| ![Monthly Pickups](UI1.png) | ![Daily Rush](UI2.png) | 
 
 
+| HeatMap | Base Number Active Cars Trends |
+|-----------------|---------------|
+| ![HeatMap](UI4heatmap.png) | ![Base_number Active cars](UI3.png)|
 ---
 
 ## ▶️ How to Run
